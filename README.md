@@ -13,5 +13,6 @@
 
 ![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=Lucasico&show_icons=true&hide_border=true)&nbsp;&nbsp;
 <br />
+ ![Snake animation](https://github.com/Lucasico/Lucasico/blob/output/github-contribution-grid-snake.svg)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Lucasico.Lucasico)
