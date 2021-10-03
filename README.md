@@ -8,7 +8,7 @@
 <br />
 
 ### About Me 🚀
-🌱 I’m a Full stack developer. </br>
+🌱 I'm a FrontEnd developer and Full Stack enthusiast. </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
 ![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=Lucasico&show_icons=true&hide_border=true)&nbsp;&nbsp;
